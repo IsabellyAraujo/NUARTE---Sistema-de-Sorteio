@@ -1,0 +1,5 @@
+c:\users\20141011110077\documents\visual studio 2012\Projects\NUARTE\NUARTE\bin\NUARTE.dll
+c:\users\20141011110077\documents\visual studio 2012\Projects\NUARTE\NUARTE\bin\NUARTE.pdb
+c:\users\20141011110077\documents\visual studio 2012\Projects\NUARTE\NUARTE\obj\Debug\NUARTE.dll
+c:\users\20141011110077\documents\visual studio 2012\Projects\NUARTE\NUARTE\obj\Debug\NUARTE.pdb
+c:\users\20141011110077\documents\visual studio 2012\Projects\NUARTE\NUARTE\obj\Debug\NUARTE.csprojResolveAssemblyReference.cache
